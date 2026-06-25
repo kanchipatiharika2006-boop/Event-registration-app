@@ -1,0 +1,6 @@
+{
+  "name": "Event Registration System",
+  "description": "A full-stack Event Registration System for college students to search and register for events, manage their student profile, and view registrations, featuring an Admin Dashboard for managing event details and tracking statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
